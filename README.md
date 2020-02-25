@@ -1,4 +1,4 @@
-# Topics
+# Projects
 
 ## Image enhancement
 
