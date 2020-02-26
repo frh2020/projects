@@ -6,9 +6,12 @@ Image denoise with convol-autoencoder https://github.com/frh2020/topics/blob/mas
 
 Image deblur with convol-autoencoder https://github.com/frh2020/topics/blob/master/image_enh/Image_enhancing_autoencoder_v3_4_2_git.ipynb
 
-## Transfer learning
+## Image classification
 
-Image classification with Xception model https://github.com/frh2020/topics/blob/master/transfer_learning/transfer_v1_3_3_Xception_git.ipynb
+Blood cell classification with CNN 
+https://github.com/frh2020/kaggle/blob/master/blood_cells_cnn_v2.ipynb
+
+Transfer learning: face image classification with Xception model https://github.com/frh2020/topics/blob/master/transfer_learning/transfer_v1_3_3_Xception_git.ipynb
 
 ## Time series
 
