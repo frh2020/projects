@@ -21,6 +21,10 @@ Time series with LSTM https://github.com/frh2020/topics/tree/master/time_series
 
 https://github.com/frh2020/kaggle
 
+## Data processing
+
+https://github.com/frh2020/kaggle/blob/master/titanic/kaggle-titanic-dp.ipynb
+
 ## SQL query with Python on Bigquery
 
 https://github.com/frh2020/topics/tree/master/SQL_in_python
