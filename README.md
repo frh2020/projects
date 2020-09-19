@@ -15,19 +15,29 @@ Transfer learning: face image classification with Xception model https://github.
 
 ## Time series
 
-Time series with LSTM https://github.com/frh2020/topics/tree/master/time_series
+Many-to-many LSTM https://github.com/frh2020/topics/tree/master/time_series
 
 ## Kaggle projects 
 
-https://github.com/frh2020/kaggle
+House Pricing (Regression) with AutoML: https://github.com/frh2020/kaggle/blob/master/house_prices/kaggle_house_prices_pycaret.ipynb
+
+Digit Recognizer (Multi-class single-lable classification): https://github.com/frh2020/kaggle/tree/master/digit_recognizer
+
+Titanic (Single-class classification): https://github.com/frh2020/kaggle/tree/master/titanic
+
+All projects https://github.com/frh2020/kaggle
 
 ## Data processing
 
 https://github.com/frh2020/kaggle/blob/master/titanic/kaggle-titanic-dp.ipynb
 
+https://github.com/frh2020/kaggle/blob/master/house_prices/kaggle-house-prices-dp1.ipynb
+
 ## SQL query with Python on Bigquery
 
-https://github.com/frh2020/topics/tree/master/SQL_in_python
+Bigquery SQL https://github.com/frh2020/topics/tree/master/SQL_in_python
+
+SQL vs Pandas https://github.com/frh2020/topics/blob/master/SQL_in_python/BQ_SQL_tables_magic_git.ipynb
 
 ## Some good old programs for computer interfacing / data acquisition
 
