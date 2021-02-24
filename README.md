@@ -13,10 +13,14 @@ https://github.com/frh2020/kaggle/blob/master/blood_cells_cnn_v2.ipynb
 
 Transfer learning: face image classification with Xception model https://github.com/frh2020/topics/blob/master/transfer_learning/transfer_v1_3_3_Xception_git.ipynb
 
+## Image segmentation on 3d seismic image of geological facies
+
+to be updated https://github.com/frh2020/topics/tree/master/image_segmentation
+
+
 ## Well log data modeling (regressions)
 
 Competition project () on predict missing s-wave velocity from other well logs. (to be updated)
-
 https://github.com/frh2020/topics/tree/master/well_log_reg
 
 
