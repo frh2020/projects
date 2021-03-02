@@ -14,7 +14,7 @@
 
 ## Image segmentation for geological facies
 
-[recognizing and locating geological facies on seismic images with 3d u-net (to be updated)](../../../topics/tree/master/image_segmentation)
+[Recognizing and locating geological facies on seismic images with 3d u-net (to be updated)](../../../topics/tree/master/image_segmentation)
 
 
 ## Rregressions for well log data modeling
