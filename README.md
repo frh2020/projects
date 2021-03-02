@@ -12,9 +12,9 @@
 
 [Face image classification with Xception model and transfer learning](../../../topics/blob/master/transfer_learning/transfer_v1_3_3_Xception_git.ipynb)
 
-## Image segmentation on 3d seismic image of geological facies
+## Image segmentation
 
-[To be updated](../../../topics/tree/master/image_segmentation)
+[3d seismic image of geological facies with 3d u-net (to be updated)](../../../topics/tree/master/image_segmentation)
 
 
 ## Well log data modeling (regressions)
