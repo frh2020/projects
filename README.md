@@ -12,12 +12,12 @@
 
 [Face image classification with Xception model and transfer learning](../../../topics/blob/master/transfer_learning/transfer_v1_3_3_Xception_git.ipynb)
 
-## Image segmentation
+## Image segmentation for geological facies
 
 [3d seismic image of geological facies with 3d u-net (to be updated)](../../../topics/tree/master/image_segmentation)
 
 
-## Well log data modeling (regressions)
+## Rregressions for well log data modeling
 
 [SPEGCS ML Challenge project: predicting missing s-wave velocity from other well logs](../../../topics/tree/master/well_log_reg)
 
