@@ -10,7 +10,7 @@
 
 [Blood cell classification with CNN](../../../kaggle/blob/master/blood_cells_cnn_v2.ipynb)
 
-[Transfer learning: face image classification with Xception model](../../../topics/blob/master/transfer_learning/transfer_v1_3_3_Xception_git.ipynb)
+[Face image classification with Xception model and transfer learning](../../../topics/blob/master/transfer_learning/transfer_v1_3_3_Xception_git.ipynb)
 
 ## Image segmentation on 3d seismic image of geological facies
 
