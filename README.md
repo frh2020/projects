@@ -2,9 +2,9 @@
 
 ## Image enhancement
 
-Image denoise with convol-autoencoder https://github.com/frh2020/topics/blob/master/image_enh/Image_enhancing_autoencoder_v3_3_2_git_noise.ipynb
+[Image denoise with convol-autoencoder](../topics/image_enh/Image_enhancing_autoencoder_v3_3_2_git_noise.ipynb)
 
-Image deblur with convol-autoencoder https://github.com/frh2020/topics/blob/master/image_enh/Image_enhancing_autoencoder_v3_4_2_git.ipynb
+[Image deblur with convol-autoencoder](../../../topics/image_enh/Image_enhancing_autoencoder_v3_4_2_git.ipynb)
 
 ## Image classification
 
