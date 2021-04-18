@@ -21,6 +21,10 @@
 
 [SPEGCS ML Challenge project: predicting missing s-wave velocity from other well logs](../../../topics/tree/master/well_log_reg)
 
+Models: linear regressions, XGB, LightGBM, Catboost, nerual networks
+
+Hp tuning methods: randomized search, Bayesian optimization; hp tuning tools: Scikit-Learn, Keras wrapper, Keras tuner 
+
 
 ## Time series
 
