@@ -8,6 +8,8 @@
 
 ## Image classification
 
+[Digit recognizer: image, multi-class, classcification, run locally and on cloud](../../../kaggle/blob/master/digit_recognizer) 
+
 [Blood cell classification with CNN](../../../kaggle/blob/master/blood_cells_cnn_v2.ipynb)
 
 [Face image classification with Xception model and transfer learning](../../../topics/blob/master/transfer_learning/transfer_v1_3_3_Xception_git.ipynb)
